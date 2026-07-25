@@ -38,7 +38,7 @@
 
 ### ⚡ Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
 
 ### 🛠 Backend & Frameworks
 
