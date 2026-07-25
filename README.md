@@ -42,7 +42,7 @@
 
 ### 🛠 Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=django,mysql" />
+<img src="https://skillicons.dev/icons?i=django,mysql,mongodb" />
 
 ### 🔧 Tools & Platforms
 
