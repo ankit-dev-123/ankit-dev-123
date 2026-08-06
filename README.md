@@ -38,15 +38,15 @@
 
 ### ⚡ Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
 
 ### 🛠 Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=django,mysql" />
+<img src="https://skillicons.dev/icons?i=django,mysql,mongodb,sqlite" />
 
 ### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
