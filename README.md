@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0e75b6&height=200&section=header&text=Ankit%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20%7C%20GenAI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0e75b6&height=200&section=header&text=Ankit%20Sharma%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20%7C%20GenAI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Python+%26+Django+Developer;Django+REST+Framework+%26+FastAPI;GenAI+%2F+LLM+Integrations;Cloud+%26+Deployment+(AWS)+Enthusiast;Full+Stack+Web+Developer" alt="Typing SVG" />
 
